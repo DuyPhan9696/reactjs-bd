@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Homework",
+      "time": "08:00 PM",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Sleep",
+      "time": "00:00 AM",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Call to my parrents",
+      "time": "09:00 PM",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Go to school",
+      "time": "7:00AM",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
